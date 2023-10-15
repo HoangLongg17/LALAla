@@ -1,0 +1,15 @@
+body{
+    background-color: wheat;
+}
+#a{
+    border-style: hidden;
+    font-size: x-large;
+    color: black;
+}
+#a:hover{
+    box-shadow: white;
+}
+#b{
+    text-align: center;
+}
+  
